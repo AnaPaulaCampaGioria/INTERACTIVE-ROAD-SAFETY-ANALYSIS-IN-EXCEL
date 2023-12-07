@@ -18,7 +18,7 @@ This project, named "Road Accident Data," is a user-friendly dashboard made with
 - **Trends Over Time**: Monthly data comparison to spot trends.
 - **Accident Locations**: Shows if more accidents happen in cities or rural areas.
 - **Filter Panel**: Lets you choose and customize the data display.
-![Road Accident Data Dashboard](./readme_screenshotsexcel/Captura.png)
+![Road Accident Data Dashboard](./readme_screenshotsexcel/screenshot.png)
 
 
 ## Data Handling
